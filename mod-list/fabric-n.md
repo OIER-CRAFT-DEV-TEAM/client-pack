@@ -5,6 +5,7 @@ Fabric Loader 【Fabric加载器】
 - 网址：
     - [官网](https://fabricmc.net/)
     - [GitHub](https://github.com/FabricMC/fabric-loader)
+
 ## 模组
 - AppleSkin 【苹果皮】
     - 版本号：[2.4.1](https://github.com/squeek502/AppleSkin/releases/tag/v2.4.0)
