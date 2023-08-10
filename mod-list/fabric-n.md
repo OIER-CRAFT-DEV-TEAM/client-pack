@@ -1,0 +1,232 @@
+# Fabric N 资源列表
+## 加载器
+Fabric Loader 【Fabric加载器】
+- 版本号：[0.14.22](https://github.com/FabricMC/fabric-loader/releases/tag/0.14.22)
+- 网址：
+    - [官网](https://fabricmc.net/)
+    - [GitHub](https://github.com/FabricMC/fabric-loader)
+## 模组
+1. AppleSkin 【苹果皮】
+    - 版本号：[2.4.1](https://github.com/squeek502/AppleSkin/releases/tag/v2.4.0)
+    - 文件名：appleskin-fabric-mc1.18.2-2.4.1.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+        - [GitHub](https://github.com/squeek502/AppleSkin)
+        - [modrinth](https://modrinth.com/mod/appleskin)
+2. Architectury API 【前置】
+    - 版本号：4.11.93
+    - 文件名：architectury-4.11.93-fabric.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
+        - [GitHub]https://github.com/architectury/architectury-api)
+        - [modrinth](https://modrinth.com/mod/architectury-api)
+3. Autofish 【自动钓鱼】
+    - 版本号：0.9.4
+    - 文件名：Autofish-0.9.4-fabric-mc1.18.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/autofish)
+        - [GitHub](https://github.com/MrTroot/autofish)
+4. BetterF3 【更好的F3】
+    - 版本号：[3.0.0](https://github.com/cominixo/BetterF3/releases/tag/v3.0.0)
+    - 文件名：BetterF3-3.0.0-Fabric-1.18.2.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+        - [GitHub](https://github.com/cominixo/BetterF3)
+        - [modrinth](https://modrinth.com/mod/betterf3)
+5. BugJump 【模组加载修复】
+    - 版本号：[1.2.0](https://github.com/Dubhe-Studio/BugJump/actions/runs/5571723513)
+    - 文件名：BugJump-1.2.0-1.18.2.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/bugjump)
+        - [GitHub](https://github.com/Dubhe-Studio/BugJump)
+        - [modrinth](https://modrinth.com/mod/bugjump)
+6. Cloth Config API 【前置】
+    - 版本号：6.5.102
+    - 文件名：cloth-config-6.5.102-fabric.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+        - [GitHub](https://github.com/shedaniel/cloth-config)
+        - [modrinth](https://modrinth.com/mod/cloth-config)
+7. Continuity 【纹理连接】
+    - 版本号：[2.0.2](https://github.com/PepperCode1/Continuity/releases/tag/v2.0.2+1.18.2)
+    - 文件名：continuity-2.0.2+1.18.2.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/continuity)
+        - [GitHub](https://github.com/PepperCode1/Continuity)
+        - [modrinth](https://modrinth.com/mod/continuity)
+8. CustomSkinLoader 【万用皮肤补丁】
+    - 版本号：[14.17](https://github.com/xfl03/MCCustomSkinLoader/releases/tag/v14.17)
+    - 文件名：CustomSkinLoader_Fabric-14.17.jar
+    - 网址：
+        - [官网](https://3-3.dev/csl-download)
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/customskinloader)
+        - [GitHub](https://github.com/xfl03/MCCustomSkinLoader)
+        - [modrinth](https://modrinth.com/mod/customskinloader)
+9. Dynamic FPS 【动态 FPS】
+    - 版本号：[2.1.0](https://github.com/juliand665/Dynamic-FPS/releases/tag/2.1.0)
+    - 文件名：dynamic-fps-2.1.0.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+        - [GitHub](https://github.com/juliand665/Dynamic-FPS)
+        - [modrinth](https://modrinth.com/mod/dynamic-fps)
+10. EasierVillagerTrading 【简单村民交易】
+    - 版本号：1.5.4
+    - 文件名：easiervillagertrading-1.18.2-fabric0.47.10-1.5.4.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading)
+        - [GitHub](https://github.com/gbl/EasierVillagerTrading)
+        - [modrinth](https://modrinth.com/mod/easiervillagertrading)
+11. Fabric API 【前置】
+    - 版本号：[0.76.0](https://github.com/FabricMC/fabric/releases/tag/0.76.0+1.18.2)
+    - 文件名：fabric-api-0.76.0+1.18.2.jar
+    - 网址：
+        - [官网](https://fabricmc.net/)
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+        - [GitHub](https://github.com/FabricMC/fabric)
+        - [modrinth](https://www.modrinth.com/mod/fabric-api)
+12. Fabric Language Kotlin 【Kotlin支持】
+    - 版本号：[1.10.8](https://github.com/FabricMC/fabric-language-kotlin/releases/tag/1.10.8+kotlin.1.9.0)
+    - 文件名：fabric-language-kotlin-1.10.8+kotlin.1.9.0.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
+        - [GitHub](https://github.com/FabricMC/fabric-language-kotlin)
+        - [modrinth](https://modrinth.com/mod/fabric-language-kotlin)
+13. I18nUpdateMod 【自动汉化更新】
+    - 版本号：[3.5.0](https://github.com/CFPAOrg/I18nUpdateMod3/releases/tag/v3.5.0)
+    - 文件名：I18nUpdateMod-3.5.0-all.jar
+    - 网址：
+        - [官网](https://cfpa.site/)
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod)
+        - [GitHub](https://github.com/CFPAOrg/I18nUpdateMod3)
+        - [modrinth](https://modrinth.com/mod/i18nupdatemod)
+14. IMBlocker 【输入法冲突修复】
+    - 版本号：[4.0.5](https://github.com/reserveword/IMBlocker/releases/tag/v4.0.5+1.18.2)
+    - 文件名：IMBlocker_4.0.5+1.18.2.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/imblocker)
+        - [GitHub](https://github.com/reserveword/IMBlocker)
+        - [modrinth](https://modrinth.com/mod/imblocker-original)
+15. Indium 【铟】
+    - 版本号：[1.0.7](https://github.com/comp500/Indium/releases/tag/1.0.7+mc1.18.2)
+    - 文件名：indium-1.0.7+mc1.18.2.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/indium)
+        - [GitHub](https://github.com/comp500/Indium)
+        - [modrinth](https://modrinth.com/mod/indium)
+16. Inventory Profiles Next 【一键背包整理】
+    - 版本号：[1.10.6](https://github.com/blackd/Inventory-Profiles/releases/tag/v1.10.6)
+    - 文件名：InventoryProfilesNext-fabric-1.18.2-1.10.6.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
+        - [GitHub](https://github.com/blackd/Inventory-Profiles)
+        - [modrinth](https://modrinth.com/mod/inventory-profiles-next)
+17. Iris Shaders 【光影加载器】
+    - 版本号：[1.6.5](https://github.com/IrisShaders/Iris/releases/tag/1.6.5+1.18.2)
+    - 文件名：iris-mc1.18.2-1.6.5.jar
+    - 网址：
+        - [官网](https://irisshaders.dev/)
+        - [GitHub](https://github.com/IrisShaders/Iris)
+        - [modrinth](https://modrinth.com/mod/iris)
+18. Just Enough Characters 【通用拼音搜索】
+    - 版本号：4.3.13
+    - 文件名：jecharacters-fabric-1.18.2-4.3.13.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/just-enough-characters)
+        - [GitHub](https://github.com/Towdium/JustEnoughCharacters)
+19. JourneyMap 【旅行地图】
+    - 版本号：5.9.7
+    - 文件名：journeymap-1.18.2-5.9.7-fabric.jar
+    - 网址：
+        - [官网](https://teamjm.github.io/journeymap-docs/)
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+        - [GitHub](https://github.com/TeamJM/journeymap)
+        - [modrinth](https://modrinth.com/mod/journeymap)
+20. Lan Server Properties 【自定义局域网联机】
+    - 版本号：[1.8](https://github.com/rikka0w0/LanServerProperties/releases/tag/1.8_Forge_Fabric)
+    - 文件名：lanserverproperties-1.8-fabric.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties)
+        - [GitHub](https://github.com/rikka0w0/LanServerProperties)
+21. libIPN 【前置】
+    - 版本号：3.0.2
+    - 文件名：libIPN-fabric-1.18.2-3.0.2.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/libipn)
+        - [GitHub](https://github.com/blackd/libIPN)
+        - [modrinth](https://modrinth.com/mod/libipn)
+22. Lithium 【锂】
+    - 版本号：[0.10.3](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.18.2-0.10.3)
+    - 文件名：lithium-fabric-mc1.18.2-0.10.3.jar
+    - 网址：
+        - [GitHub](https://github.com/CaffeineMC/lithium-fabric)
+        - [modrinth](https://www.modrinth.com/mod/lithium)
+23. Mod Menu 【模组菜单】
+    - 版本号：[3.2.5](https://github.com/TerraformersMC/ModMenu/releases/tag/v3.2.5)
+    - 文件名：modmenu-3.2.5.jar
+    - 网址：
+        - [GitHub](https://github.com/TerraformersMC/ModMenu)
+        - [modrinth](https://www.modrinth.com/mod/modmenu)
+24. Neat 【极简血量显示】
+    - 版本号：[31](https://github.com/VazkiiMods/Neat/releases/tag/release-1.8-31)
+    - 文件名：Neat-1.8-31-FABRIC.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/neat-fabric-quilt)
+        - [GitHub](https://github.com/VazkiiMods/Neat)
+        - [modrinth](https://modrinth.com/mod/neat)
+25. Phosphor 【磷】
+    - 版本号：[0.8.1](https://github.com/CaffeineMC/phosphor-fabric/releases/tag/mc1.18.x-0.8.1)
+    - 文件名：phosphor-fabric-mc1.18.x-0.8.1.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/phosphor)
+        - [GitHub](https://github.com/CaffeineMC/phosphor-fabric)
+        - [modrinth](https://www.modrinth.com/mod/phosphor)
+26. Reese's Sodium Options 【Reese 的钠视频界面】
+    - 版本号：[1.6.3](https://github.com/FlashyReese/reeses-sodium-options/releases/tag/mc1.18.2-1.6.3)
+    - 文件名：reeses_sodium_options-1.6.3+mc1.18.2-build.88.jar
+    - 网址：
+        - [GitHub](https://github.com/FlashyReese/reeses-sodium-options)
+        - [modrinth](https://modrinth.com/mod/reeses-sodium-options)
+27. Roughly Enough Items 【REI 物品管理器】
+    - 版本号：8.3.618
+    - 文件名：RoughlyEnoughItems-8.3.618.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+        - [GitHub](https://github.com/shedaniel/RoughlyEnoughItems)
+        - [modrinth](https://modrinth.com/mod/rei)
+28. Roughly Enough Loot Tables 【REI 战利品表】
+    - 版本号：1.1
+    - 文件名：RoughlyEnoughLootTables-1.18-1.1.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-loot-tables)
+        - [GitHub](https://github.com/GrigLog/RoughlyEnoughLootTables/)
+        - [modrinth](https://modrinth.com/mod/roughly-enough-loot-tables)
+29. Roughly Enough Professions 【REI 工作方块】
+    - 版本号：1.0.2
+    - 文件名：RoughlyEnoughProfessions-fabric-1.18.2-1.0.2.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep)
+        - [GitHub](https://github.com/Mrbysco/RoughlyEnoughProfessions)
+        - [modrinth](https://modrinth.com/mod/roughly-enough-professions-rep)
+30. Sodium Extra 【钠·扩展】
+    - 版本号：[0.4.18](https://github.com/FlashyReese/sodium-extra-fabric/releases/tag/mc1.18.2-0.4.18)
+    - 文件名：sodium-extra-0.4.18+mc1.18.2-build.98.jar
+    - 网址：
+        - [GitHub](https://github.com/FlashyReese/sodium-extra-fabric)
+        - [modrinth](https://www.modrinth.com/mod/sodium-extra)
+31. Sodium 【钠】
+    - 版本号：[0.4.1](https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.18.2-0.4.1)
+    - 文件名：sodium-fabric-mc1.18.2-0.4.1+build.15.jar
+    - 网址：
+        - [GitHub](https://github.com/CaffeineMC/sodium-fabric)
+        - [modrinth](https://www.modrinth.com/mod/sodium)
+32. oroHealth Damage Indicators 【伤害显示】
+    - 版本号：2
+    - 文件名：torohealth-1.18-fabric-2.jar
+    - 网址：
+        - [curesforge](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)
+        - [GitHub](https://github.com/ToroCraft/ToroHealth)
+## 资源包
+Faithful 【原版高清】
+- 文件名：Faithful-1.18.zip
+- 网址：
+    - [官网](https://faithful.team/)

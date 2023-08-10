@@ -7,24 +7,24 @@
 ## Fabric N
 基于 Fabric 加载器的客户端。
 
-[MOD 列表]()
+[资源列表](./mod-list/fabric-n.md)
 ## Fabric Masa
 基于 Fabric 加载器的客户端，包含 Masa 组件。
 
-[MOD 列表]()
+[资源列表]()
 ## Quilt N
 基于 Quilt 加载器的客户端。
 
-[MOD 列表]()
+[资源列表]()
 ## Quilt Masa
 基于 Quilt 加载器的客户端，包含 Masa 组件。
 
-[MOD 列表]()
+[资源列表]()
 ## Forge
 基于 Forge 加载器的客户端。
 
-[MOD 列表]()
+[资源列表]()
 ## NeoForge
 基于 NeoForge 加载器的客户端。
 
-[MOD 列表]()
+[资源列表]()
