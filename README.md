@@ -8,6 +8,7 @@
 基于 Fabric 加载器的客户端。
 
 [资源列表](./mod-list/fabric-n.md)
+[下载](https://github.com/OIER-CRAFT-DEV-TEAM/client-pack/releases/download/fabric-n-1.0/oic-fabric-n-1.0.zip)
 ## Fabric Masa
 基于 Fabric 加载器的客户端，包含 Masa 组件。
 
