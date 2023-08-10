@@ -226,6 +226,7 @@ Fabric Loader 【Fabric加载器】
     - 网址：
         - [curesforge](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)
         - [GitHub](https://github.com/ToroCraft/ToroHealth)
+
 ## 资源包
 Faithful 【原版高清】
 - 文件名：Faithful-1.18.zip
